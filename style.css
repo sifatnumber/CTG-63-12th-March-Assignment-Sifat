@@ -1,0 +1,126 @@
+.header{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.logo{
+	float: left;
+	border: 1px solid green;
+	width: 20%;
+	box-sizing: border-box;
+}
+
+.logo img{
+	width: 100%;
+	padding:5px;
+}
+.menu{
+	float: right;
+	border: 1px solid black;
+	width: 80%;
+	box-sizing: border-box;
+	padding: 2px;
+	text-align: center;
+}
+
+.box1{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	overflow: hidden;
+	clear: both;
+}
+
+.part_one{
+	float: left;
+	border: 1px solid green;
+	width: 60%;
+	box-sizing: border-box;
+	padding: 40px;
+}
+
+.part_one img{
+	width: 100%;
+}
+.part_two{
+	float: right;
+	border: 1px solid black;
+	width: 40%;
+	box-sizing: border-box;
+}
+
+.a{
+	border: 1px solid red;
+	box-sizing: border-box;
+	padding: 9px;
+}
+
+.b{
+	border: 1px solid red;
+	box-sizing: border-box;
+	padding: 9px;
+}
+
+.box2{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	clear: both;
+}
+
+.segment1{
+	border: 1px solid green;
+	width: 25%;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.segment1 img{
+	width: 100%;
+	padding: 5px;
+}
+.segment2{
+	border: 1px solid green;
+	width: 50%;
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.segment3{
+	border: 1px solid green;
+	width: 25%;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.segment3 img{
+	width: 100%;
+}
+
+.principles{
+	border: 1px solid red;
+	padding: 10px;
+}
+
+.freelancing{
+	border: 1px solid red;
+	padding: 10px;
+}
+.footer{
+	border: 1px solid black;
+}
+
+.wrapper{
+	margin: 0 auto;
+	padding: 0;
+	background-color: powderblue;
+}
